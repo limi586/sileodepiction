@@ -98,7 +98,15 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 0.0.1-2\n- 初始发布",
+                    "markdown": "### 0.0.1-21\n- 初始发布",
+                },
+                 {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.0.1-88\n- 更新版本",
+                },
+                 {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.0.1-104\n- 更新版本",
                 }
             ]
         }
