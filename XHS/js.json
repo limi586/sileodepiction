@@ -90,7 +90,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.5-1",
+                    "text": "1.1.6-8",
                     "title": "插件版本"
                 },
                 {
@@ -100,7 +100,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 01 月 18 日",
+                    "text": "2025 年 12 月 22 日",
                     "title": "最后更新"
                 },
                 {
@@ -115,6 +115,10 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.6-8\n- 更新",
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1.5-1\n- 优化移除广告逻辑\n- 修复热门界面无法下载视频问题\n- 新增移除板块出现直播\n- 新增评论区翻译（自备百度翻译）\n- 新增移除视频页点赞\n- 新增移除视屏页评论\n- 新增移除视屏页推荐\n- 新增移除视屏页分享",
