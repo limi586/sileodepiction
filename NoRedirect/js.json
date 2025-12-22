@@ -99,6 +99,10 @@
                 
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 2.1\n- 更新",
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.3\n- 新增「历史记录」选项",
                 },
                 {
