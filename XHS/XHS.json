@@ -90,7 +90,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.6-3",
+                    "text": "1.1.6-8",
                     "title": "插件版本"
                 },
                 {
@@ -100,7 +100,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 05 月 02 日",
+                    "text": "2025 年 12 月 22 日",
                     "title": "最后更新"
                 },
                 {
@@ -115,6 +115,10 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.6-8\n- 更新",
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1.6-3\n- 更新免授权版本",
