@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0-6",
+                    "text": "2.1-4",
                     "title": "当前版本"
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 12 月 22 日",
+                    "text": "2026 年 2 月 17 日",
                     "title": "最后更新"
                 }
             ]
@@ -85,6 +85,10 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.1-4\n- 更新版本",
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 2.0-6\n- 优化“猜拳/骰子作弊”功能，点击发送“摇骰子/猜拳 ”可直接选择对应的选项，关闭则发送原本随机的",
