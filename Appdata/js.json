@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.4.4",
+                    "text": "1.8.8",
                     "title": "插件版本"
                 },
                 {
@@ -80,7 +80,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 30 日",
+                    "text": "2026 年 3 月 27 日",
                     "title": "最后更新"
                 }
             ]
@@ -89,6 +89,11 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "markdown": "### 1.8.8\n- 更新",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "markdown": "### 1.4.4\n- 允许 TrollStore 安装的应用重置数据和权限",
                     "useSpacing": true,
